@@ -1,0 +1,6 @@
+C:\Users\kseni\source\repos\Hospital_Lib\bin\Debug\Hospital_Lib.dll
+C:\Users\kseni\source\repos\Hospital_Lib\bin\Debug\Hospital_Lib.pdb
+C:\Users\kseni\source\repos\Hospital_Lib\obj\Debug\Hospital_Lib.csproj.CoreCompileInputs.cache
+C:\Users\kseni\source\repos\Hospital_Lib\obj\Debug\Hospital_Lib.dll
+C:\Users\kseni\source\repos\Hospital_Lib\obj\Debug\Hospital_Lib.pdb
+C:\Users\kseni\source\repos\Hospital_Lib\obj\Debug\Hospital_Lib.csprojAssemblyReference.cache

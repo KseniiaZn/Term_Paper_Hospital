@@ -1,0 +1,10 @@
+C:\Users\kseni\source\repos\Zinkova_Term_Console\obj\Debug\Zinkova_Term_Console.csprojAssemblyReference.cache
+C:\Users\kseni\source\repos\Zinkova_Term_Console\obj\Debug\Zinkova_Term_Console.csproj.CoreCompileInputs.cache
+C:\Users\kseni\source\repos\Zinkova_Term_Console\bin\Debug\Zinkova_Term_Console.exe.config
+C:\Users\kseni\source\repos\Zinkova_Term_Console\bin\Debug\Zinkova_Term_Console.exe
+C:\Users\kseni\source\repos\Zinkova_Term_Console\bin\Debug\Zinkova_Term_Console.pdb
+C:\Users\kseni\source\repos\Zinkova_Term_Console\bin\Debug\Hospital_Lib.dll
+C:\Users\kseni\source\repos\Zinkova_Term_Console\bin\Debug\Hospital_Lib.pdb
+C:\Users\kseni\source\repos\Zinkova_Term_Console\obj\Debug\Zinkova_Term_Console.csproj.CopyComplete
+C:\Users\kseni\source\repos\Zinkova_Term_Console\obj\Debug\Zinkova_Term_Console.exe
+C:\Users\kseni\source\repos\Zinkova_Term_Console\obj\Debug\Zinkova_Term_Console.pdb
